@@ -1,2 +1,0 @@
-# IRBIRANET
-portfolio irbiranet
