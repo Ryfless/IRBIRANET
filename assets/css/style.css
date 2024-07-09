@@ -570,6 +570,12 @@ footer{
     margin-top: 10px;
 }
 
+/* ----- MEDIA QUERY == 1024px / RESPONSIVE ----- */
+@media only screen and (max-width: 1080px){
+    body {
+        overflow-x: hidden;
+    }
+}
 
 /* ----- MEDIA QUERY == 1024px / RESPONSIVE ----- */
 @media only screen and (max-width: 1024px){
